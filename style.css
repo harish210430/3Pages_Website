@@ -1,0 +1,63 @@
+*{
+  box-sizing: border-box;  
+  width: auto;
+  padding: 5px;
+  
+}
+header h1{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(54, 11, 11);
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    
+}
+nav{
+    background-color: rgb(5, 5, 36);
+    overflow: hidden;
+}
+#Home{
+    background-color: rgb(251, 235, 248) ;
+    
+}
+#service{
+    background-color: aquamarine;
+    
+}
+#contact{
+    background-color: antiquewhite;
+    
+}
+#detail{
+    background-color: rgb(176, 200, 129);
+    
+}
+#heading{
+    text-decoration: overline;
+    color: rgb(19, 7, 67);
+}
+footer{
+    padding: 5px;
+    margin: 10px;
+}
+.btn{
+    border: 1px solid black;
+    border-radius: 3px;
+    float: right;
+    color: brown;
+}
+
+
+
+
+
+#clr{
+    color: rgb(109, 73, 52);
+    font-weight: bold;
+}
+
+
+
+
